@@ -1,0 +1,46 @@
+
+/* Global styles */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+/* Style definitions for divs */
+.styled-div {
+    background-color: darkgray;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    
+
+}
+
+.styled-div1 {
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+
+}
+
+.styled-div2 {
+    background-color: darkgray;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    float: left;
+
+}
+
+
+/* Additional styles */
+h1 {
+    color: rgb(216, 188, 6);
+}
+
+a {
+    color: #0b0000;
+    text-decoration: none;
+}
+
+/* Add more styles as needed */
